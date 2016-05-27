@@ -1,5 +1,12 @@
 //=== https://courses.edx.org/courses/course-v1:TsinghuaX+30640014x+1T2016/info
+qinghua or tsinghua ?
 
+[dictionary]
+http://www.thesaurus.com/
+http://dictionary.cambridge.org
+
+
+//=== reading
 http://sciencedirect.com 
 http://www.sciencedaily.com 
 
@@ -7,11 +14,17 @@ http://www.sciencedaily.com
 http://www.breakingnewsenglish.com/speed_reading.html 
 
 
-Speaking 
+//=== Speaking 
+ https://www.ivona.com/us/
+ http://www.aboboo.com/
 
--- https://www.ivona.com/us/
--- http://www.aboboo.com/
 
+//=== Listening
+http://www.ted.com
+http://esl-lab.com 
+http://www.24en.com/bbc/bbc3/ 
+http://michiganradio.org/programs/thats-what-they-say#stream/0
 
-//===
-
+[New Yorker Radio]
+http://www.wnyc.org/shows/tnyradiohour/
+http://www.airsla.org/nprbooks.asp 
